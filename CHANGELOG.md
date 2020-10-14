@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/hellocustomer/HC.WebsiteSDK/compare/1.0.0...1.1.0) (2020-10-14)
+
+
+### Features
+
+* add installation instructions ([2cde6d5](https://github.com/hellocustomer/HC.WebsiteSDK/commit/2cde6d5779a767aa3dc7c0873b7f45475eca366c)), closes [#HCS-13](https://github.com/hellocustomer/HC.WebsiteSDK/issues/HCS-13)
+
 ## 1.0.0 (2020-10-08)
 
 
