@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/hellocustomer/HC.WebsiteSDK/compare/1.1.0...1.1.1) (2020-10-14)
+
+
+### Bug Fixes
+
+* fix modal layput on firefox ([1bce886](https://github.com/hellocustomer/HC.WebsiteSDK/commit/1bce886129061ce7a6ea44328788502c767d037f))
+
 ## [1.1.0](https://github.com/hellocustomer/HC.WebsiteSDK/compare/1.0.0...1.1.0) (2020-10-14)
 
 
